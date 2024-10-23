@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.;
 
 public class TimetableDFS {
     private static final String[] SUBJECTS = {"DAA", "CN", "AI", "DS", "OS"};
